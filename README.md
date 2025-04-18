@@ -1,36 +1,44 @@
 <h1 align="center">Hi, I'm Nathanael 👋</h1>
-<p align="center">🚀 Engineering Student • Developer • Tech Enthusiast</p>
+<p align="center">ECE @ UofT • Full-Stack Developer • Always Learning & Building</p>
 
 ---
 
-## 🧠 About Me
+## 📄 About Me
 
-- 🎓 ECE student passionate about systems, graphics, and optimization
-- 💡 Always building projects that blend creativity with problem-solving
-- 🧩 I enjoy low-level programming, algorithm design, and tinkering with hardware
-- ✨ Currently exploring more in AI, embedded systems, and full-stack dev
+- 🎓 Electrical & Computer Engineering @ University of Toronto (BASc '28 + PEY Co-op)
+- 🛠️ Passionate about full-stack development, systems, and optimization
+- 🌱 Currently working with Vue, React, Firebase, and Next.js
+- 📌 [View My Resume](https://drive.google.com/file/d/1ZAPjlQmBcMLF33T6-6UGWJngLpqn1z1x/view)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Projects
+
+- 📬 [Messaging Website](https://github.com/nathwung/messaging) | [Live Demo](https://chat-55a76.web.app/#/auth)
+- 📝 [Notes Website](https://github.com/nathwung/notes) | [Live Demo](https://bulkynotes.web.app/auth)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nathanael-wung-548348288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8xh23Ts3SFC%2FFc6qSJd6dw%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/nathanael-wung-548348288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nathanael--wung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
@@ -38,17 +46,3 @@
     <img src="https://img.shields.io/badge/Devpost-nathwung-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </p>
-
----
-
-## 📌 Featured Projects
-
-- 🎮 **[Monopoly VGA Game](https://github.com/YOUR_USERNAME/monopoly-vga)** — C-based Monopoly with VGA rendering and PS/2 input
-- 🚚 **[Traveling Courier (ECE297)](https://github.com/YOUR_USERNAME/courier-routing)** — High-performance pathfinding and optimization
-- 🌐 **[Interactive Map GUI](https://github.com/YOUR_USERNAME/interactive-map)** — EZGL frontend for dynamic map navigation and search
-
-> 👉 Replace links with your actual repo URLs!
-
----
-
-_Thanks for stopping by! ⭐ Feel free to check out my work or connect!_
