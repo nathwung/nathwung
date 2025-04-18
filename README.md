@@ -1,8 +1,8 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <!-- Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,html,css,sql,react,nodejs,nextjs,tailwind,vue,git,github,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css,js,figma,matlab,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,firebase,vue" />
 </p>
 
 ---
