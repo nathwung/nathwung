@@ -1,7 +1,7 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css,js,figma,matlab,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css,js,figma,matlab,mysql,typescript,git,aws" />
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,firebase,vue" />
 </p>
 
