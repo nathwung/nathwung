@@ -9,13 +9,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathwung&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathwung&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📊 GitHub Stats
 
-<!-- 3D Contribution Graph -->
+<!-- 🧊 3D Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathwung/nathwung/main/profile-3d-contrib/profile-night-view.svg" width="650" alt="3D GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/nathwung/nathwung/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="3D GitHub Contribution Graph" />
 </p>
