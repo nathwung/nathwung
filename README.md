@@ -7,7 +7,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <!-- GitHub Stats Cards -->
 <p align="center">
