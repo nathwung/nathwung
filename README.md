@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nathanael 👋</h1>
-<p align="center">ECE @ UofT • Full-Stack Developer • Always Learning & Building</p>
+<p align="center">ECE @ UofT</p>
 
 ---
 
