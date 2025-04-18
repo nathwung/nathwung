@@ -9,8 +9,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <!-- 🧊 3D Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nathwung/nathwung/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="3D GitHub Contribution Graph" />
