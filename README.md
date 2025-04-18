@@ -1,4 +1,4 @@
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css,js,typescript,react,tailwind,vue" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- 🧊 3D Contribution Graph -->
 <p align="center">
