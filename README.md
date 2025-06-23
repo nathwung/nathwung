@@ -1,8 +1,8 @@
 ### Languages and Tools:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,typescript,react,tailwind,vue,firebase" />
-    <img src="https://skillicons.dev/icons?i=flask,postgresql,mysql,aws,nodejs,nextjs,linux,git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,typescript,react,tailwind,vue,firebase,flask" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,nodejs,nextjs,linux,git,github,docker" />
     <img src="https://skillicons.dev/icons?i=matlab,latex,swift" />
 </p>
 
