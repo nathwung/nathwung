@@ -2,7 +2,7 @@
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,typescript,react,tailwind,vue,firebase,flask" />
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,nodejs,nextjs,linux,git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,nodejs,nextjs,linux,docker,git,github" />
     <img src="https://skillicons.dev/icons?i=matlab,latex,swift" />
 </p>
 
